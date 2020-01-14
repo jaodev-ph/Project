@@ -122,7 +122,7 @@
       </div>
 
     <div class="login-box-body">
-        <p><b>LOGIN FORM</b></p>
+        <p><b>LOGIN </b></p>
         <form  method="post"> 
           <div class="form-group">
           <select name="cmbModule" id="cmbModule" class="form-control" required="required">
